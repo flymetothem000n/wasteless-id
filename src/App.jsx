@@ -192,7 +192,7 @@ export default function App() {
             <div className="relative z-10">
               <div className="flex items-center space-x-3 mb-8">
                 <div className="bg-white p-2 rounded-xl shadow-sm">
-                  <img src="src/assets/wasteless.png" width="50" height="50" />
+                  <img src="src/assets/wasteless.PNG" width="50" height="50" />
                 </div>
                 <h1 className="text-3xl font-black text-white tracking-tight">Wasteless ID</h1>
               </div>
@@ -212,7 +212,7 @@ export default function App() {
           <div className="w-full md:w-1/2 p-8 sm:p-12 bg-white dark:bg-gray-800 transition-colors">
             <div className="md:hidden text-center mb-8">
               <div className="mx-auto h-16 w-16 bg-gradient-to-tr from-green-100 to-green-50 rounded-full flex items-center justify-center mb-4 shadow-sm border border-green-200">
-                <img src="src/assets/wasteless.png" width="50" height="50" />
+                <img src="src/assets/wasteless.PNG" width="50" height="50" />
               </div>
               <h2 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Wasteless ID</h2>
             </div>
@@ -624,7 +624,7 @@ export default function App() {
         <aside className="hidden md:flex flex-col w-72 h-screen bg-white dark:bg-gray-900 border-r border-gray-200 dark:border-gray-800 fixed left-0 top-0 transition-colors">
           <div className="p-8 flex items-center space-x-3 mb-4">
             <div className="bg-gradient-to-br from-green-500 to-green-600 p-0.5 rounded-xl shadow-sm">
-              <img src="src/assets/wasteless.png" width="80" height="80" />
+              <img src="src/assets/wasteless.PNG" width="80" height="80" />
             </div>
             <h1 className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Wasteless</h1>
           </div>
@@ -695,7 +695,7 @@ export default function App() {
           {/* Header Mobile */}
           <div className="md:hidden bg-white/80 dark:bg-gray-900/80 backdrop-blur-md px-6 py-4 flex justify-between items-center sticky top-0 z-30 border-b border-gray-100 dark:border-gray-800 transition-colors">
             <div className="flex items-center space-x-2">
-              <img src="src/assets/wasteless.png" width="50" height="50" size={22} />
+              <img src="src/assets/wasteless.PNG" width="50" height="50" size={22} />
               <span className="font-black text-gray-900 dark:text-white tracking-tight">Wasteless ID</span>
             </div>
             <div className="flex space-x-3 items-center text-gray-500 dark:text-gray-400">
